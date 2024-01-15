@@ -1,5 +1,7 @@
 import paramiko
 
+# 包括安装 suzaku 集群，UI管理面，API
+
 # 服务器列表
 # servers = [
 #     {
@@ -98,3 +100,5 @@ if output:
     print("Output:", output)
 if error:
     print("Error:", error)
+
+def
