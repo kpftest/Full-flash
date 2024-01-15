@@ -100,5 +100,3 @@ if output:
     print("Output:", output)
 if error:
     print("Error:", error)
-
-def

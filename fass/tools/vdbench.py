@@ -2,6 +2,8 @@ import os
 import subprocess
 import paramiko
 
+# 包括配置conf 文件，执行vdbench ，检查vdbench运行是否正常
+
 client_ips = "xxxx,xxxx,xxxx"
 #配置vdbench 文件
 def conf():
